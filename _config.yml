@@ -1,0 +1,28 @@
+name: The Willows in the Hollow
+favicon: null
+layout_spectrum: 0.8048961565364152
+typography_spectrum: 0.8394970656372607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.27631184877827764
+  lightness: 0.17639894923195243
+  saturation: 0.28077921993099153
+  rhythmicContrast: 0.6868917795363814
+purpose: []
